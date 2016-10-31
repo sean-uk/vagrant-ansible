@@ -2,3 +2,4 @@ Vagrantfile
 .vagrant
 ansible/playbook.retry
 ansible/roles
+*console.log
